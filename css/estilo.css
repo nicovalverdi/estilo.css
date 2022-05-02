@@ -1,0 +1,36 @@
+h1{background: red;
+  border-style: solid; 
+  border-color: black;
+  border-radius: 20px;
+color: white;
+text-decoration: underline;
+font-size: 50px;
+text-align: center;
+
+}
+
+img {
+width: 600px;
+height:auto;
+border-radius: 30px;
+
+}
+
+body{background-color: green;}
+p { font-size: 30px; 30px;
+}
+
+h2{text-decoration: underline;
+  color: blue;
+  font-size: 40px; 40px;
+}
+
+ul{
+  font-size: 25px; 25px;
+  color: white;
+}
+
+ol{
+  font-size: 25px; 25px;
+  color: white;
+}
